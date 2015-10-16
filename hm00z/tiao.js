@@ -1,2 +1,2 @@
- window.open ("http://www.807807.com/#cai/qe4z"); 
- window.location.href="http://www.807807.com/#cai/qe4z"; 
+ window.open ("http://www.749777.com/#w2-baidu"); 
+ window.location.href="http://www.749777.com/#w2-baidu";
